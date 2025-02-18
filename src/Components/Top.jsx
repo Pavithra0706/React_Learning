@@ -4,7 +4,7 @@ import './Top.css'
 function Top() {
   return (
     <div id="Top">
-      <h1 >PaviShop</h1>
+      <h1 className='top_h1'>█▓▒▒░░░Pavi shop░░░▒▒▓█</h1>
     </div>
   )
 }

@@ -1,10 +1,18 @@
 #Top{
-    background-color: cadetblue;
+    background-color:rgb(34, 13, 77);
     height: 10vh;
+    position: sticky;
+    top:0;
+    z-index: 1;
     
 }
 h1{
     margin: 0px;
     text-align: center;
-   
+    padding: 10px;
+    color: white;
+}
+.top_h1{
+    color: white;
+    
 }

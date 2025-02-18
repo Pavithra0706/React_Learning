@@ -14,6 +14,9 @@ root.render(
     
     <Top/>
     <Middle/>
+    <Middle/>
+    <Middle/>
+    <Middle/>
     <Bottom/>
   </React.StrictMode>
 );

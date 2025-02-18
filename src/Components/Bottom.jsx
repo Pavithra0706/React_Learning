@@ -3,7 +3,7 @@ import './Bottom.css'
 function Bottom() {
   return (
     <div id="Bottom">
-        <h1>@pavishop.in</h1>
+        <h1 className='bottom_h1'> @𝖕𝖆𝖛𝖎𝖘𝖍𝖔𝖕.𝖎𝖓✍</h1>
     </div>
   )
 }

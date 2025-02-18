@@ -1,9 +1,58 @@
 #Middle{
     background-color: aquamarine;
     height: 80vh;
+    position: relative;
 }
 h1{
     margin: 0px;
     text-align: center;
+    color:rgb(32, 32, 130)
    
+}
+.sub1{
+    position: absolute;
+    width:30vw;
+    height:40vh;
+    top:20vh;
+    left:10vw;
+    background-color: palevioletred;
+    border-radius: 5px;
+    border: 2.9px white dotted;
+}
+.sub2{
+    position: absolute;
+    width:30vw;
+    height:50vh;
+    top:10vh;
+    right:10vw;
+    background-color: palevioletred;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    border: 4px white dotted;
+}
+.image{
+    height: 30vh;
+    width:12vw;
+   
+    border-radius: 5px;
+    border:2px black solid;
+   
+}
+h2{
+    font-size: 45px;
+    color:rgb(32, 32, 130);
+    text-align: center;
+}
+button{
+    height: 45px;
+    width: 200px;
+    border-radius: 5px;
+    margin-top: 15px;
+    border: none;
+    font-size: 50x;
+    color: white;
+    background-color: rgb(32, 32, 130);
+    border: 2px white dotted;
 }
